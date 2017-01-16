@@ -31,7 +31,7 @@ backendでDjangoを使う場合(LoginとLogoutのみ)
 
 ```
 	> pip install django-rest-auth
-  > pip django-cors-headers
+	> pip django-cors-headers
 
   settings.py
 
